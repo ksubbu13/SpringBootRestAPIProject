@@ -8,6 +8,7 @@ public class SpringBootRestApiProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootRestApiProjectApplication.class, args);
+		System.out.println("Hello");
 	}
 
 }
